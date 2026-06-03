@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://average34.github.io/Touhouja-zhDirectory/sitemap.xml
